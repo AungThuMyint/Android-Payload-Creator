@@ -1,0 +1,11 @@
+	[[yellow]]+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+	
+	| [[cyan]][*] [[red]]use exploit/multi/handler [[yellow]]|
+	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+	| [[cyan]][*] [[red]]set payload [[white]]OPTIONS	[[yellow]]|
+	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+	| [[cyan]][*] [[red]]set LHOST [[white]]Your IP		[[yellow]]|
+	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+	| [[cyan]][*] [[red]]set LPORT [[white]]Your Port	[[yellow]]|
+	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+	| [[cyan]][*] [[red]]exploit [[cyan]](or) [[red]]run	        [[yellow]]|
+	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
